@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "platform": "PXT",
+        "platformorganization": "Microsoft",
+        "boardname": "micro:bit",
+        "website": "https://pxt.microbit.org",
+        "pxtcommonpath": "git+https://github.com/microsoftsam/pxt-common-docs.git"
+    },
+    "plugins": [
+        "mathjax",
+        "pxt@git+https://github.com/microsoftsam/gitbook-plugin-pxt.git"
+    ],
+    "pluginsConfig": {
+        "pxt": {
+            "base": "pxt.microbit.org"
+        }
+    }
+}
