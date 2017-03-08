@@ -3,11 +3,9 @@
 
 {% block example1 %}
 
-@boardname@
-
 ```blocks
 while(true) {
-    basic.showString("Hello")
+    basic.showString("Hi")
 }
 ```
 {% endblock %}
