@@ -1,0 +1,23 @@
+{
+  "name": "pxt-microbit-docs",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "Microsoft Corporation",
+  "repository": {
+    "url": "ssh://git@github.com:Microsoft/pxt-microbit-docs.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/microsoft/pxt-microbit-docs",
+  "license": "MIT",
+  "dependencies": {
+      "pxt-common-docs": "0.0.1"
+  },
+  "devDependencies": {
+      "gitbook-cli": "2.3.0"
+  },
+  "targetDependencies": {},
+  "extraIncludes": [
+    "inc"
+  ]
+}
